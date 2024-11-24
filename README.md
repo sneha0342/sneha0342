@@ -1,10 +1,14 @@
 - Hi there, I’m Sneha Goyal! 👋
 
 -🎓 Final-Year BTech Student in Artificial Intelligence and Machine Learning
+
 -📍 Vivekananda Institute of Professional Studies - Technical Campus
+
 -💻 Data Science Intern at Codesoft
 
+
 -👩‍💻 About Me
+
 -I am passionate about leveraging data and machine learning to solve real-world problems. With experience in data analysis and a flair for innovation, I strive to make a positive impact through technology.
 
 -📊 Key Interests:
