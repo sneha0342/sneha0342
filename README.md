@@ -11,28 +11,47 @@
 
 -I am passionate about leveraging data and machine learning to solve real-world problems. With experience in data analysis and a flair for innovation, I strive to make a positive impact through technology.
 
+
 -📊 Key Interests:
+
 -Data Science & Machine Learning
+
 -AI-Powered Solutions
+
 -Smart City Applications
+
 -UI/UX and Digital Design
 
+
 -📈 Current Work:
+
 -Developing data-driven solutions as a Data Science Intern at Codesoft.
+
 -Running my own clothing business, where I utilize social media platforms like Instagram and YouTube to engage with customers effectively.
 
+
 -🚀 Skills & Tools
+
 -Programming: Python, SQL
+
 -Data Science & Visualization: Pandas, NumPy, Matplotlib, Seaborn
+
 -AI/ML: Scikit-learn, TensorFlow, PyTorch
+
 -Tools: Jupyter Notebook, VS Code, Git
+
 -Design: Figma, Canva
 
+
 -📂 Featured Projects
+
 -Coming soon! Stay tuned for exciting AI and data science projects!
 
+
 -🌟 Let's Connect
+
 -LinkedIn: sneha2410
+
 -Email: sneha0124@gmail.com
 
 
