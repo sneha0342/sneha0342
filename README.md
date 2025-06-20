@@ -1,6 +1,6 @@
 - Hi there, I’m Sneha Goyal! 👋
 
--🎓 Final-Year BTech Student in Artificial Intelligence and Machine Learning
+-🎓  BTech Student in Artificial Intelligence and Machine Learning
 
 -📍 Vivekananda Institute of Professional Studies - Technical Campus
 
@@ -23,13 +23,6 @@
 -UI/UX and Digital Design
 
 
--📈 Current Work:
-
--Developing data-driven solutions as a Data Science Intern at Codesoft.
-
--Running my own clothing business, where I utilize social media platforms like Instagram and YouTube to engage with customers effectively.
-
-
 -🚀 Skills & Tools
 
 -Programming: Python, SQL
@@ -41,11 +34,6 @@
 -Tools: Jupyter Notebook, VS Code, Git
 
 -Design: Figma, Canva
-
-
--📂 Featured Projects
-
--Coming soon! Stay tuned for exciting AI and data science projects!
 
 
 -🌟 Let's Connect
